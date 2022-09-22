@@ -1,2 +1,3 @@
 # Air-pollution
-for the dissertation
+This is the code and dataset for the dissertation in 
+jupyter notebook
